@@ -127,7 +127,7 @@ patents have been issued.
 
 <div style="display:flex;text-align:center;">
   <div style="flex: 1 1 75%;align-self: center;">
-      <img src="./files/figures/panto_glace.jpg" border="0">
+      <img src="./files/figures/panto_circuit.jpg" border="0">
   </div>
   <video controls="" style="width:50%">
     <source src="./files/figures/video_panto.mp4" type="video/mp4">
