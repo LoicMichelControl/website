@@ -17,7 +17,7 @@ controllers when the process to control is not ”well-modeled”.
 The proposed PMC controller is an alternative version that is also very easy to tune considering 
 a minimal knowledge of the general behavior of the process to control (like the time-response, amplification gain...).
 
-The main features of the Para-Model Controller :
+The main features of the Para-Model Controller:
 - does not need any computation of the numerical derivatives of the controlled output of the process
 - efficient tracking performances of (switched) nonlinear systems including uncertainties, derive of the model parameters, perturbations rejection...
 - flexibility of the parameters of the controller
@@ -33,7 +33,7 @@ y = g(x)
 
 where $$u$$ and $$y$$ are respectively the input and the output of the process.
 
-The discretized Para-Model controller reads:
+The discretized Para-Model controller reads as a "self-tuned integrator":
 
 $$u_k = \Psi_k \, . \int_0^t K_i (y^\ast_{k} - y_{k}) \, d \, \tau$$
 

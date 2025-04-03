@@ -18,15 +18,16 @@ author_profile: true
 
 <!--  [0] **L. Michel**, E. Guilmineau, F. Plestan and J.-P. Barbot, <em> Model-free based control in aerodynamic computation: application to a wind turbine blade section </em>, European Journal of Control, in preparation -->
 
-<!-- [1] **L. Michel**, and J.-P. Barbot, <em> Model-free based pitch control of a wind turbine blade section in the OpenFAST environment </em>, Control Engineering Practice, submitted -->
+[S1] **L. Michel**, <em> A software package to develop control laws for wind turbines in the OpenFAST environment: application to blade-pitch control of the lift </em>, Control Engineering Practice, in preparation.
 
-[S1] **L. Michel**,  M. Ghanes, Y. Aoustin and J.-P. Barbot, <em> Semi-implicit discrete time cascaded observer: Chua circuit case study </em>, (invited) Springer chapter “Sliding mode, variable-structure and discontinuous control systems”, in preparation.
+[S2] **L. Michel**,  M. Ghanes, Y. Aoustin and J.-P. Barbot, <em> Semi-implicit discrete time cascaded observer: Chua circuit case study </em>, (invited) Springer chapter in the book “Sliding mode, variable-structure and discontinuous control systems”, submitted.
+	[[Link]](https://hal.science/hal-04993406)
 
-[S2] **L. Michel**, <em> A variational and symplectic framework for model-free control: preliminary results, CCTA'25 </em>, submitted.
+[S3] **L. Michel**, <em> A variational and symplectic framework for model-free control: preliminary results, CCTA'25 </em>, submitted.
 	[[Link]](http://arxiv.org/abs/1011.4237)
 
-[S3] **L. Michel**, M. Métillon, S. Caro, J.-P. Barbot and Y. Aoustin, <em> Testing a differentiator on two tasks: Dynamic Parameter Identification for Cable-Driven Parallel Robots and control of its motors </em>, Mechanics & Robotics, submitted.
-	[[Link]](../files/figures/JMR_Cablecon.pdf)
+[S4] **L. Michel**, M. Métillon, S. Caro, J.-P. Barbot and Y. Aoustin, <em> Testing a differentiator on two tasks: Dynamic Parameter Identification for Cable-Driven Parallel Robots and control of its motors </em>, Mechanics & Robotics, submitted.
+	[[Link]](https://hal.science/hal-04967059)
 
 <br>
 <font color='blue'> <b> International Journals </b> </font>
@@ -47,7 +48,7 @@ author_profile: true
 	[[Link]](https://theses.hal.science/EC-NANTES/hal-04302763v1)
 	
        
-[J5] M.R. Mojallizadeh, B. Brogliato, A. Polyakov, S. Selvarajan, **L. Michel**, et al. <em> Discrete-time differentiators in closed-loop control systems: experiments on electro-pneumatic system and rotary inverted pendulum </em>, Control Engineering Practice, Volume 136, 2023, 105546. 
+[J5] M.R. Mojallizadeh, B. Brogliato, A. Polyakov, S. Selvarajan, **L. Michel** et al., <em> Discrete-time differentiators in closed-loop control systems: experiments on electro-pneumatic system and rotary inverted pendulum </em>, Control Engineering Practice, Volume 136, 2023, 105546. 
     [[Link]](https://hal.inria.fr/EC-NANTES/hal-03125960v1)
     
 [J6] **L. Michel**, I. Neunaber, R. Mishra, C. Braud, F. Plestan, J.-P. Barbot, X. Boucher, C. Join, and M. Fliess, <em> Model-free control of the dynamic lift on a wind turbine blade section: experimental results </em>, 2022 J. Phys.: Conf. Ser. 2265 032068.
@@ -96,7 +97,7 @@ author_profile: true
     [[Link]](https://hal.science/hal-03787452/document)
 
 [C8] **L. Michel**, I. Neunaber, R. Mishra, C. Braud, F. Plestan, J.-P. Barbot, X. Boucher, C. Join, and M. Fliess, <em> Model-free control of the dynamic lift on a wind turbine blade section: experimental results </em>, Torque 2022, Delft, The Netherlands, 2022.
-    [[Link]](../files/figures/TORQUE_Presentation_Michel_52.pdf)
+    [[Slides]](../files/figures/TORQUE_Presentation_Michel_52.pdf)
   
    
 [C9] **L. Michel**, M. Ghanes, F. Plestan, Y. Aoustin, J.-P. Barbot, <em> Semi-implicit homogeneous euler differentiator for a second-order system : Validation on real data </em>, IEEE Conference on Decision and Control - CDC'21, 2021. 
@@ -144,17 +145,20 @@ author_profile: true
 <font color='blue'> <b> National conferences </b> </font>
 -------------
 
+[N1] **L. Michel**,  M. Ghanes, Y. Aoustin and J.-P. Barbot, <em> Un observateur semi-implicite cascadé : application au circuit
+de Chua </em>, SAGIP'25, Mulhouse, France, submitted. 
+	[[Link]](../files/figures/SAGIP_submitted_Mar25.pdf)
 
-[N1]  P. Hamon, D. Chablat, F. Plestan and **L. Michel**, <em> Une nouvelle main basée sur la conception de doigts aux mouvement spatiaux </em>, 25th French congres of mechanics - CFM 2022, Aug 2022, Nantes, France.
+[N2]  P. Hamon, D. Chablat, F. Plestan and **L. Michel**, <em> Une nouvelle main basée sur la conception de doigts aux mouvement spatiaux </em>, 25th French congres of mechanics - CFM 2022, Aug 2022, Nantes, France.
     [[Link]](https://hal.science/hal-03716011/document)
 
-[N2] **L. Michel**, M. Métillon, S. Caro, M. Ghanes, F. Plestan, J.-.P Barbot and Y. Aoustin, <em> Experimental validation of two semi-implicit homogeneous discretized differentiators on the CRAFT cable-driven parallel robot </em>, 25th French congres of mechanics - CFM 2022, Aug 2022, Nantes, France.
+[N3] **L. Michel**, M. Métillon, S. Caro, M. Ghanes, F. Plestan, J.-.P Barbot and Y. Aoustin, <em> Experimental validation of two semi-implicit homogeneous discretized differentiators on the CRAFT cable-driven parallel robot </em>, 25th French congres of mechanics - CFM 2022, Aug 2022, Nantes, France.
 	[[Link]](https://hal.science/hal-03751623/document)
   
-[N3] H. Morel, **L. Michel**, G. Clerc, P. Bevilacqua, M. Barara, V. Steinmetz, B. Péron, <em> Microréseaux dc: avantages des réseaux maillés </em>, 3th Electrical Engineering Symposium - SGE'18, Nancy, France, Jun. 2018.
+[N4] H. Morel, **L. Michel**, G. Clerc, P. Bevilacqua, M. Barara, V. Steinmetz, B. Péron, <em> Microréseaux dc: avantages des réseaux maillés </em>, 3th Electrical Engineering Symposium - SGE'18, Nancy, France, Jun. 2018.
   	[[Link]](https://hal.science/hal-02134229/)
 
-[N4] **L. Michel**, O. Ghibaudo, O. Messal, A. Kedous-Lebouc, C. Boudinet, F. Blache, A. Labonne, <em> Commande "sans modèle" pour l'asservissement numérique d'un banc de caractérisation magnétique </em>,2nd Electrical Engineering Symposium - SGE'16, Grenoble, France, Jun 2016.
+[N5] **L. Michel**, O. Ghibaudo, O. Messal, A. Kedous-Lebouc, C. Boudinet, F. Blache, A. Labonne, <em> Commande "sans modèle" pour l'asservissement numérique d'un banc de caractérisation magnétique </em>,2nd Electrical Engineering Symposium - SGE'16, Grenoble, France, Jun 2016.
   	[[Link]](https://hal.science/hal-01361644v1/document)
   
 <br>

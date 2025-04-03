@@ -46,17 +46,28 @@ algorithms.
 
 
 In addition to advanced control techniques that require minimal process model
-knowledge, I am passionate about exploring the properties of the Model-Free control
-method (Fliess & Join, 2013) and the Para-model algorithm I proposed a few years ago. My
+knowledge, I am passionate about exploring the properties of the Model-Free Control
+method (Fliess & Join, 2013) and the [Para-Model Control](https://loicmichelcontrol.github.io/website/portfolio/) algorithm I proposed a few years ago. My
 ongoing work includes developing a stability theory using optimization proof techniques and
 formal proof environments.
 
 
-<font color='blue'> Neural-networks </font>  [This is an exploratory project](./files/figures/presentation_NN_memory.pdf)  using the gained experience in model-free control approaches. 
-The expected goal is to use closed-loop control to train a neural network and build a small network framework whose connexions / wiring interact dynamically with controlled neurons... as a kind of « connectom »...
- This is a very preliminary work whose perspectives include: mix with advanced ML algorithms, training of clustered data, etc. 
-Also, a very preliminary and prospective work concerning the memory effect when the information are "stored" by neurons through a closed-loop.
+<font color='blue'> Neural networks / connectome perspectives </font>
+This is a very challenging work to build a growing neural network in order to explore the concept of learning through a closed-loop control algorithm
+and additionally propagate statistic information from the synaptic weights. 
+To emphasize the interactions between the connexions and the neurons, the dynamic of the connexions evolves randomly, like into a « connectome », for which the neurons can be used simultaneously to 
+learn and store several type of information from the learning process and the wiring statistics, depending on the configuration of the connexions [[GitHub]](https://github.com/LoicMichelControl/netPMC).
 
+<div style="display:flex;text-align:center;display:block">
+  <video controls="" style="width:50%">
+    <source src="./files/figures/connectome_video_2103.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+  </video>
+</div>
+ 
+In another project, I started investigating the memory effect when the information are "stored" in neurons through a closed-loop [[Slides]](./files/figures/presentation_NN_memory.pdf).
+
+ 
 <font color='blue'> Experimental & CFD aerodynamics for wind turbines </font> 
 Development of a complete experimental setup 
 inside a wind tunnel environment at the LHEEA lab. to validate nonlinear control strategies 
@@ -174,7 +185,7 @@ $$
 - application in robotics (PID-based closed-loop trajectories with parallel cable robot that need advanced differentiation);
 
 
-<div style="display:flex;text-align:center;">
+<div style="display:flex;text-align:center;display:block">
   <video controls="" style="width:50%">
     <source src="./files/figures/CPR_diff.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
