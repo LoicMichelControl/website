@@ -53,10 +53,10 @@ formal proof environments.
 
 
 <font color='blue'> Neural networks / connectome perspectives </font>
-This is a very challenging work to build a growing neural network in order to explore the concept of learning through a closed-loop control algorithm
-and additionally propagate statistic information from the synaptic weights. 
-To emphasize the interactions between the connexions and the neurons, the dynamic of the connexions evolves randomly, like into a « connectome », for which the neurons can be used simultaneously to 
-learn and store several type of information from the learning process and the wiring statistics, depending on the configuration of the connexions [[GitHub]](https://github.com/LoicMichelControl/netPMC).
+This is a very challenging work to build a growing neural network in order to explore the concept of learning through a closed-loop control algorithm and additionally propagate statistic information from the synaptic weights. 
+To emphasize the interactions between the connections and the neurons, the connections are activated randomly, like into a « connectome », for which the neurons can be used simultaneously to learn and store several type of information 
+from the learning process and the wiring statistics, depending on the configuration of the connections.
+ [[GitHub]](https://github.com/LoicMichelControl/netPMC).
 
 <div style="display:flex;text-align:center;display:block">
   <video controls="" style="width:50%">

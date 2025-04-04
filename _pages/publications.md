@@ -58,13 +58,13 @@ author_profile: true
 	[[Link]](https://www.aimspress.com/article/doi/10.3934/mbe.2022034)
 
 [J8] **L. Michel**, S. Selvarajan, M. Ghanes, F. Plestan, Y. Aoustin and J.-P. Barbot, <em> An Experimental Investigation of Discretized Homogeneous Differentiators: Pneumatic Actuator Case </em>, IEEE Journal of Emerging and Selected Topics in Industrial Electronics, vol. 2, no. 3, pp. 227-236, July 2021.
-    [[Link]](https://doi.org/10.1109/JESTIE.2021.3061924)
+    [[Link]](https://hal.science/hal-03414142v1)
 
 [J9] J.-F. Mogniotte, C. Raynaud, M. Lazar, **L. Michel**, <em> Analytical modelling of a lateral dual gate MESFET in SiC </em>, Romanian Journal of Information Science and Technology (ROMJIST), vol. 22, no. 2, pp. 103–110, 2019.
   	[[Link]](https://www.romjist.ro/full-texts/paper621.pdf)
 
 [J10] **L. Michel**, X. Boucher, A. Chériti, P. Sicard, F. Sirois, <em> FPGA implementation of an optimal IGBT gate driver based on Posicast control </em>, IEEE Transactions on Power Electronics, vol. 28, no. 5, pp. 2569-2575, May 2013.  
-  	[[Link]](https:/doi.org/10.1109/TPEL.2012.2207463)
+  	[[Link]](../files/figures/IEEE_IGBT_driver_2012_submission_camera_ready_final.pdf)
   
 <br>
 <font color='blue'> <b> International Conferences </b> </font>
@@ -128,18 +128,18 @@ author_profile: true
 
 
 [C16] **L. Michel**, A. Chériti, P. Sicard, <em> Physical and system power electronics simulator based on a SPICE kernel </em>, 12th Workshop on Control and Modeling for Power Electronics - COMPEL'10, pp. 1-6, 28-30 June 2010, Boulder, CO, USA. 
-   	[[Link]](https:/doi.org/10.1109/COMPEL.2010.5562422)
+   	[[Link]](https://ieeexplore.ieee.org/document/5562422)
 
 
 [C17] **L. Michel**, C. Join, M. Fliess, P. Sicard, A. Chériti, <em> Model-free control of dc/dc converters </em>, 12th Workshop on Control and Modeling for Power Electronics - COMPEL'10, pp. 1-8, 28-30 June 2010, Boulder, CO, USA.
-   	[[Link]](https:/doi.org/10.1109/COMPEL.2010.5562385)
+   	[[Link]](https://inria.hal.science/inria-00495776/)
    
 
 [C18] A. Sandali, A. Chériti, **L. Michel**, H. Bazi, <em> Linear PDM-Dual control for current-fed-inverter </em>, 35th Annual Conference of IEEE Industrial Electronics - IECON'09, pp. 3808-3813, 3-5 Nov. 2009, Porto, Portugal.
-   	[[Link]](https:/doi.org/10.1109/IECON.2009.5415126)
+   	[[Link]](https://ieeexplore.ieee.org/document/5415126)
 
 [C19] **L. Michel**, A. Chériti, P. Sicard, <em> Development of an efficient IGBT simulation model </em>, 22nd Canadian Conference on Electrical and Computer Engineering - CCECE'09, pp. 252-256,  3-6 May 2009, St. John's, NL, Canada.  
-  	[[Link]](https:/doi.org/10.1109/CCECE.2009.5090131)
+  	[[Link]](https://ieeexplore.ieee.org/document/5090131)
 
 <br>
 <font color='blue'> <b> National conferences </b> </font>
@@ -185,7 +185,7 @@ de Chua </em>, SAGIP'25, Mulhouse, France, submitted.
 [P2] **L. Michel** and J.-P. Barbot, <em> A note about high-order semi-implicit differentiation: application to a numerical integration scheme with Taylor-based compensated error </em>, arXiv:2408.00497, Jul. 2024.
   	[[Link]](https://arxiv.org/abs/2408.00497)
   	
-[P3] E. Koçak, A. Genidy, M.A. Hamida, **L. Michel**, Permanent Magnet Synchronous Machine Implicit Euler SMC Controller, Technical Report, Feb. 2020.
+[P3] E. Koçak, A. Genidy, M.A. Hamida, **L. Michel**, <em> Permanent Magnet Synchronous Machine Implicit Euler SMC Controller </em>, Technical Report, Feb. 2020.
   	[[Link]](../files/figures/implicit_control_motor.pdf)
 
 [P4] **L. Michel**, <em> Online learning of neural networks based on a model-free control algorithm </em>,  arXiv:1905.02230, Sept. 2021. (Advances in Production Management Systems - APMS'21, Accepted). 
