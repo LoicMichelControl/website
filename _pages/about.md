@@ -28,7 +28,7 @@ My work includes developing model-control methodologies for different engineerin
 robotics, and epidemiology, including experimental validations. Additionally, I've worked on
 algorithmic strategies for numerical (semi-implicit) differentiation and
 numerical algorithms for simulation, involving the Parareal
-algorithm and Non-Standard finite difference methods.
+algorithm and Non-Standard Finite Difference methods.
 
 
 ...and perspectives
@@ -70,11 +70,12 @@ In another project, I started investigating the memory effect when the informati
  
 <font color='blue'> Experimental & CFD aerodynamics for wind turbines </font> 
 Development of a complete experimental setup 
-inside a wind tunnel environment at the LHEEA lab. to validate nonlinear control strategies 
-devoted to manage the lift of wind turbine at the blade scale taking into account local 
+within a wind tunnel environment at the LHEEA laboratory. 
+The goal was to validate nonlinear control strategies 
+devoted to manage the aerodynamic lift of wind turbines at the blade scale, taking into account local 
 aerodynamic perturbations (such as fall down of the lift inducing lack of controllability). A fully customized embedded control board was designed for this purpose. 
-Also investigations of the lift-based control in CFD (using the ISIS-CFD professional solver) 
-as well as investigations within the [OpenFAST](https://www.nrel.gov/wind/nwtc/openfast.html)  environment of the « Para-model » control algorithm [[GitHub]](https://github.com/LoicMichelControl/lcost).
+In addition, we performed investigations of the lift-based control in CFD (using the [ISIS-CFD](https://lheea.ec-nantes.fr/research-impact/software-and-patents/isis-cfd) solver) 
+as well as investigations within the [OpenFAST](https://www.nrel.gov/wind/nwtc/openfast.html)  environment of the Para-Model Control algorithm [[GitHub]](https://github.com/LoicMichelControl/lcost).
 
 <div style="display:flex; justify-content:center;">
 <div style="flex: 1 1 75%;align-self: center;">
@@ -86,10 +87,10 @@ as well as investigations within the [OpenFAST](https://www.nrel.gov/wind/nwtc/o
   </video>
 </div>
 
-<font color='blue'> Experimental grasping control in robotics </font>  For a gripper under 
-hybrid multi-objective control to manage speed, force and positioning sequentially during 
-grasping tasks. This work has been part of a PhD grant to associate control law to mechanical 
-developments to design new hands for grasping tasks (defended in Dec. 2022).   
+<font color='blue'> Experimental grasping control in robotics </font> A robot gripper, based on pneumatic muscles, has been developed 
+in the framework of a PhD work (design of a new hand for grasping tasks - defended in Dec. 2022).
+I have been associated to this work in order to develop a hybrid multi-objective control to manage speed, force and positioning sequential control  during 
+grasping tasks.   
 
 <div style="display:flex;text-align:center;">
   <video controls="" style="width:50%">
@@ -102,8 +103,8 @@ developments to design new hands for grasping tasks (defended in Dec. 2022).
 </div>
 
 
-<font color='blue'> Epidemiology HIV minimization </font> A joint work with the university of Aveiro (Portugal) allowed to 
-treat the HIV propagation model as a real-time controlled problem for which very interesting 
+<font color='blue'> Epidemiology HIV minimization </font> This was a joint work with the university of Aveiro (Portugal) to 
+consider the [HIV propagation model](https://arxiv.org/abs/2004.11903) as a real-time control problem for which very interesting 
 results have been obtained, highlighting more « flexibility » than optimal control strategy. 
 Next steps would be to extend to PDE-based epidemiological models...
 
@@ -116,13 +117,19 @@ Next steps would be to extend to PDE-based epidemiological models...
   </div>
 </div>
 
-<font color='blue'> Control of a nonlinear magnetic test-bed (Epstein Framework) </font> 
-The goal was to re-normalize the shape of signals using closed-loop (close to calibrated sine ou square signals)  
-due to the highly nonlinear behavior of the experimental setup. This was the first validation of the "Para-Model control".
+<font color='blue'> Control of the nonlinear Epstein Framework </font> 
+
+An [Epstein frame](https://en.wikipedia.org/wiki/Epstein_frame) is a standardized measurement device for measuring the magnetic properties of soft magnetic materials, especially used for testing of electrical steels.
+
+The normalized measurements require to use calibrated signals, for which a closed-loop aims to re-shape these signals according to the nonlinear magnetic properties of the materials under test.
+This was the first experimental validation of the Para-Model Control, used to re-normalize the shape of signals in real-time, highlighting very interesting properties of "robustness" towards magnetic operating points, frequency of the signals... 
+Although no dynamical model of the test-bed was available, the control was simulated initially with the [Jiles–Atherton model](https://en.wikipedia.org/wiki/Jiles–Atherton_model) of magnetic hysteresis. [[Slides]](./files/figures/PMC_Epstein_Frame.pdf)
 
 
-<font color='blue'> Power electronics converters and electrical networks </font> Among the very first 
-applications I made in control (through Model-Free Control and Posicast techniques).
+
+<font color='red'> <b> Projects in power electronics & electrical networks </b> </font>
+
+Among the very first applications I made in control through Model-Free Control and Posicast techniques.
 
 <div style="display:flex;text-align:center;">
   <div style="flex: 1 1 75%;align-self: center;">
@@ -133,7 +140,8 @@ applications I made in control (through Model-Free Control and Posicast techniqu
   </div>
 </div>
 
-I contributed to develop a specific power converter  devoted to de-ice train pantograph, for which several
+
+I contributed also to develop a specific power converter  devoted to de-ice train pantograph, for which several
 patents have been issued.
 
 <div style="display:flex;text-align:center;">
@@ -146,8 +154,8 @@ patents have been issued.
   </video>
 </div>
 
-Also, I collaborated recently to the development (and debug) of a simulation 
-software dedicated to calculate resonant nodes in the official French national 
+In addition, I collaborated recently to the development (and debug) of a simulation 
+software dedicated to calculate resonant nodes within the official French national 
 electrical network model.
 
 
@@ -157,7 +165,7 @@ I have also strong interests in numerical methods, that I do consider very close
 of control problems, dealing with the differentiation of noisy signals 
 (used when differentiation is need in closed-loop), as well as studying ODE solver architectures.
 
-<font color='blue'> Semi-implicit differentiation and observers for noisy signals </font> Development of homogeneous-based high-order differentiators to improve the robustness towards noise rejection and flexibility of the the tuning [[Slides]](./files/figures/Differentiation_presentation_LS2N_0824.pdf). 
+<font color='blue'> Semi-implicit differentiation and observers for noisy signals </font> Development of homogeneous-based high-order differentiators to improve the robustness towards noise rejection and flexibility of the tuning [[Slides]](./files/figures/Differentiation_presentation_LS2N_0824.pdf). 
 
 $$\left \lbrace \begin{array}{l}
 {z}_4^+= z_4+  h \left( \lambda_4 { \mu^4} \left|{e_1}\right|^{4\,\alpha-3} \mathcal{N}_4  \right)  \\
