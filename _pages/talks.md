@@ -5,8 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+L. Michel, J.-P Barbot, A Connectome-Based Inference of Dynamical Neural Wiring: A Control Approach – Preliminary Results, Applied Mathematics Laboratory of Le Havre (LMAH FR-CNRS-3335), Apr. 2025.
+	[[Link]](https://lmah.univ-lehavre.fr/~ambrosio/seminaireLMAH2021.html)
 
-L. Michel, A Connectome-Based Inference of Dynamical Neural Wiring: A Control Approach – Preliminary Result, AiBy4 Summer School, June 2024.
+L. Michel, A Connectome-Based Inference of Dynamical Neural Wiring: A Control Approach – Preliminary Results, AiBy4 Summer School, June 2024.
 
 <!-- L. Michel, Scientific days in Wind turbines, Saint-Malo, France, Feb. 2024. -->
 
