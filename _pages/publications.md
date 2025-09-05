@@ -18,15 +18,19 @@ author_profile: true
 
 <!--  [0] **L. Michel**, E. Guilmineau, F. Plestan   J.-P. Barbot, <em> Model-free based control in aerodynamic computation: application to a wind turbine blade section </em>, European Journal of Control, in preparation -->
 
-[S1] **L. Michel**, J.-P. Barbot, <em> A Matlab-based program to develop control laws for wind turbines with OpenFAST: study of the pitch control case </em>, Control Engineering Practice, submitted.
+[S1] A. Fekik, **L. Michel**, et al. <em> Robust observer based on semi-implicit Euler discretization: application to a renewable energy system </em>, in preparation 
+
+[S2] **L. Michel**, et al. <em> Model-free based control for a discrete-time Hopfield model: Lyapunov analysis </em>, in preparation 
+ 
+[S3] **L. Michel**, J.-P. Barbot, <em> A Matlab-based program to develop control laws for wind turbines with OpenFAST: study of the pitch control case </em>, Control Engineering Practice, submitted.
 	[[Link]](https://hal.science/hal-05093640)
 
-[S2] **L. Michel**,  M. Ghanes, Y. Aoustin,  J.-P. Barbot, <em> Semi-implicit discrete time cascaded observer: Chua circuit case study </em>, (invited) Springer chapter in the book “Sliding mode, variable-structure   discontinuous control systems”, submitted.
+[S4] **L. Michel**,  M. Ghanes, Y. Aoustin,  J.-P. Barbot, <em> Semi-implicit discrete time cascaded observer: Chua circuit case study </em>, (invited) Springer chapter in the book “Sliding mode, variable-structure   discontinuous control systems”, submitted.
 	[[Link]](https://hal.science/hal-04993406)
 
 
 
-[S3] **L. Michel**, M. Métillon, S. Caro, J.-P. Barbot, Y. Aoustin, <em> Testing a differentiator on two tasks: Dynamic Parameter Identification for Cable-Driven Parallel Robots   control of its motors </em>, Mechanics & Robotics, submitted.
+[S5] **L. Michel**, M. Métillon, S. Caro, J.-P. Barbot, Y. Aoustin, <em> Testing a differentiator on two tasks: Dynamic Parameter Identification for Cable-Driven Parallel Robots   control of its motors </em>, Mechanics & Robotics, submitted.
 	[[Link]](https://hal.science/hal-04967059)
 
 <br>

@@ -6,13 +6,21 @@ redirect_from:
   - /about/
 ---
 
-I am a researcher associated with the Laboratory of Digital Sciences of Nantes [LS2N](https://www.ls2n.fr) (UMR 6004 CNRS) at École Centrale de Nantes, France.
+<!-- I am a researcher associated with the Laboratory of Digital Sciences of Nantes [LS2N](https://www.ls2n.fr) (UMR 6004 CNRS) at École Centrale de Nantes, France. -->
   
-My research primarily centers on
+  
+I am a Research Associate in Control and Learning Systems at the Laboratory of Digital Sciences of Nantes [LS2N](https://www.ls2n.fr) (UMR 6004 CNRS), École Centrale de Nantes, France. I currently explore intersections between control theory, machine learning, and biologically inspired modeling.  
+I also teach systems,control theory, and introductory programming as an adjunct lecturer.
+
+My current research focuses on developing model-free and learning-based control approaches for complex multi-physical systems, with applications ranging from power electronics and robotics to biologically inspired motor control models.
+I am particularly interested in bridging control theory with adaptive and neuro-inspired dynamics to better understand and design intelligent systems.
+I also have strong interests in optimization algorithms and numerical methods as key enablers for advanced control and learning techniques.
+
+<!-- My research primarily centers on
 developing model-free control approaches applicable to multi-physical systems, such as
 power electronics, aerodynamics, robotics, and epidemiology. I also have an interest in
 related areas of applied computer science, including optimization algorithms and numerical
-methods.
+methods. ! -->
   
 <!-- news ! -->
 
